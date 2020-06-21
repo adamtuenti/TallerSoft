@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 
 /**
- * @author Adan Navarrete
+ * @author adan
  *
  */
 public class Calculator {

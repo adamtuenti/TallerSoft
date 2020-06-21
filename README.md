@@ -16,8 +16,6 @@
 
 ## Specification
 - Running using Eclipse 
-- Have JUnit
-
 
 
 
